@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thisisnotharry
-- 👀 I’m interested in Javascript, more specifically node.js
-- 🌱 I’m currently learning Discord.js
+- 👀 I’m interested in C# and Javascript
+- 🌱 I’m currently learning C#
 
 <!---
 Thisisnotharry/Thisisnotharry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
